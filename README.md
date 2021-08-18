@@ -1,6 +1,6 @@
 # Iris Flower Classification & Prediction Tasks
 
-Basic data analysis and visualization techniques are applied on Iris flower data set. After pre-prcoessing and analysis few of the machine-learning algorithms are applied. The data set contains different features like:
+Basic data analysis and visualization techniques are applied on Iris flower dataset. After pre-prcoessing and analysis few of the machine-learning algorithms are applied. The dataset contains different features like:
 * Sepal Width
 * Sepal Length
 * Petal Width
@@ -26,6 +26,6 @@ Basic data analysis and visualization techniques are applied on Iris flower data
 * Neural Networks
 
 # Summary
-Here Iris data set is analysed with basic data analysis techniques and applied different machine learning algorithms for prediction and classification operation. 
+Here Iris dataset is analysed with basic data analysis techniques and applied different machine learning algorithms for prediction and classification operation. 
 
 
